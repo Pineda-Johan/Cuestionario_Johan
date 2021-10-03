@@ -1,6 +1,6 @@
 # Cuestionario_Johan
 1 En tus palabras, ¿Qué es internet?
-
+una red de redes 
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
